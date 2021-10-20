@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ilham76c/proxy-server/issues"
   },
-  "homepage": "https://github.com/ilham76c/proxy-server#readme"
+  "homepage": "https://github.com/ilham76c/proxy-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "needle": "^3.0.0"
+  }
 }
